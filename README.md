@@ -10,3 +10,4 @@
 - [Scroll Controller](https://github.com/hakkinenT/flutter_scroll_controller)
 - [Hero Animation](https://github.com/hakkinenT/flutter_hero_animation)
 - [Search Bar with Bloc](https://github.com/hakkinenT/flutter_search_bar_bloc)
+- [Tab Bar](https://github.com/hakkinenT/flutter_tab_bar)
