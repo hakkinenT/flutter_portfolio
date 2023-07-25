@@ -12,3 +12,6 @@
 - [Hero Animation](https://github.com/hakkinenT/flutter_hero_animation)
 - [Search Bar with Bloc](https://github.com/hakkinenT/flutter_search_bar_bloc)
 - [Tab Bar Custom Indicators](https://github.com/hakkinenT/flutter_tab_bar)
+- [Indexed Stack](https://github.com/hakkinenT/flutter_indexed_stack)
+- [PageView with Keep Alive](https://github.com/hakkinenT/flutter_keep_alive_widgets)
+- [WillPopScope](https://github.com/hakkinenT/flutter_will_pop_scope)
