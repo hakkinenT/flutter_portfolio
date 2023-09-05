@@ -6,6 +6,9 @@
 - [Task App](https://github.com/hakkinenT/task_app_mvc_provider_sqlite)
 - [Contact App with MobX](https://github.com/hakkinenT/contact_app_with_mobx)
 
+## Dart Projects
+- [IMC](https://github.com/hakkinenT/dart_desafio_imc)
+
 ## Useful Projects
 - [Onboarding](https://github.com/hakkinenT/flutter_onboarding)
 - [Scroll Controller](https://github.com/hakkinenT/flutter_scroll_controller)
