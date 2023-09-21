@@ -5,6 +5,7 @@
 - [Book Store with MobX](https://github.com/hakkinenT/flutter_book_store_with_mobx)
 - [Task App](https://github.com/hakkinenT/task_app_mvc_provider_sqlite)
 - [Contact App with MobX](https://github.com/hakkinenT/contact_app_with_mobx)
+- [BMI Calculator](https://github.com/hakkinenT/flutter_calculadora_imc_sqlite)
 
 ## Dart Projects
 - [IMC](https://github.com/hakkinenT/dart_desafio_imc)
