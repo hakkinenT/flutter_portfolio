@@ -1,11 +1,39 @@
 # Flutter Portfolio
 
 ## Main Projects
-- [API Integration with MobX and Tests](https://github.com/hakkinenT/flutter_api_integration_mobx_tests)
-- [Book Store with MobX](https://github.com/hakkinenT/flutter_book_store_with_mobx)
-- [Task App](https://github.com/hakkinenT/task_app_mvc_provider_sqlite)
-- [Contact App with MobX](https://github.com/hakkinenT/contact_app_with_mobx)
+### Database
+#### SQLite
 - [BMI Calculator](https://github.com/hakkinenT/flutter_calculadora_imc_sqlite)
+
+### API REST
+- [API Integration with MobX and Tests](https://github.com/hakkinenT/flutter_api_integration_mobx_tests)
+- [Desafio Contato App](https://github.com/hakkinenT/flutter_desafio_contato_app)
+- [Desafio Via CEP](https://github.com/hakkinenT/flutter_desafio_via_cep)
+
+### State Management
+#### Change Notifier
+#### MobX
+- [Book Store with MobX](https://github.com/hakkinenT/flutter_book_store_with_mobx)
+- [Contact App with MobX](https://github.com/hakkinenT/contact_app_with_mobx)
+
+#### Bloc
+
+### Animations
+
+### TDD
+
+### Architecture
+#### MVC
+#### MVVM
+#### MVP
+#### Bloc
+#### Clean Architecture
+
+
+
+
+
+
 
 ## Dart Projects
 - [IMC](https://github.com/hakkinenT/dart_desafio_imc)
